@@ -7,4 +7,4 @@ Ce bot permet au moyen de l'API **NewsApi** (https://newsapi.org/docs/client-lib
 L'utilisateur peut également obtenir la météo quotidienne ou hebdomadaire d'une ville au moyen de l'API de **OpenWeatherMap** (https://openweathermap.org/api) en utilisant les
 commandes ```/meteo Paris``` ou ```/meteo semaine Paris```
 
-(La communication avec le bot Discord se faisant donc par le chat d'un serveur Discord où le bot y a été probablement ajouté.)
+(La communication avec le bot Discord se faisant donc par le chat d'un serveur Discord où le bot y a été préalablement ajouté.)
